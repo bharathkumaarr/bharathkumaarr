@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working on Artificial General Intelligence<br>i'm a Fustack Developer
+I'm Currently a Fustack Developer Working on AGI
 
 ---
 
